@@ -10,7 +10,7 @@ The programs seek to complete three tasks:
 
 3. extracting and restructuring the meaningful information that can be found in the labelled text.
 
-Although these programs complete three tasks, you may notice that there are more than three programs in this repository! This is mainly to narrow down the working number of articles before the Natural Language Processor is applied, and also to perform some basic descriptive statistics on the articles themselves, but is not related to building the structured data set. 
+Although these programs complete three tasks, you may notice that there are more than three programs! This is mainly to narrow down the working number of articles before the Natural Language Processor is applied, and also to perform some basic descriptive statistics on the articles themselves, but is not related to building the structured data set. 
 
 The final structured dataset produced by the programs can be found in the *Program Dataset* file in the **excel_sheets** directory. The same dataset in a more readable form is found in the *Program Dataset (Concise)* file.
 
